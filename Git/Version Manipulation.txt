@@ -1,0 +1,11 @@
+HEAD / master
+HEAD detached (meaning)
+git Branching (branching out versions)
+
+
+git checkout <commit_hash>            # view a previous version (branching warning)
+
+git branch <branch_name> <commit_hash>
+
+git checkout <commit_hash> <files>    # restore a previous version.
+  git checkout <commit_hash> .

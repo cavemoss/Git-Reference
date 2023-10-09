@@ -1,0 +1,26 @@
+Local repository (on your PC)
+Remote repository (crated on GitHub)
+
+
+git remote          # list linked remote repositories
+  git remote -v     # give more details
+
+git remote add <remote repository name 'origin'> <remote repository URL>
+git remote remove <remote repository name> 
+
+git config --global credential.username "<username>"
+
+
+push (upload)
+pull (download)
+
+git push <a linked remote repository name> <commit branch name 'master'>              # upload (push)
+git push <a linked remote repository name> <commit branch name 'master'> -f           # overwrite an uploaded commit
+git <a linked remote repository name> <commit branch name 'master'> --set-upstream    # set a shortcut
+  git push
+
+git fetch     # update local repository
+
+git pull <a linked remote reposotory name> <commit branch name 'master'> 
+git <a linked remote reposotory name> <commit branch name 'master'> --set-upstream    # set a shortcut
+  git pull

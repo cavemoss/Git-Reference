@@ -1,0 +1,3 @@
+create a file called:  .gitignor
+list the files that need to be ignored by git in that file
+add .gitignor to version history

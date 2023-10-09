@@ -1,0 +1,8 @@
+Changes (Working Area)
+Staged Changes (Staging Area) midifications here will go into the new verison
+
+git reset <file>    # take a change out of the Staging Area
+  git reset .
+
+git checkout -- <file>    # take a change out of the Working Area
+  git checkout -- .
