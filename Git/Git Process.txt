@@ -15,5 +15,5 @@ git commit                             # commit to the change
   git commit -m "<message>" --amend    # correct previous commit
 
 
-git config --global user.name "Your Name"             # configure credentians
+git config --global user.name "Your Name"             # configure credentials
 git config --global user.email "email@example.com"

@@ -1,4 +1,0 @@
-Remote Tracking Branch (origin/master)
-
-git <a linked remote repository  name> <commit branch name 'master'> --set-upstream     # set a shortcut
-git push 

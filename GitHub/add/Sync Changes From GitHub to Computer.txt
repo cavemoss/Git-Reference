@@ -1,7 +1,0 @@
-git clone <remote reposotory URL> folder-name
-
-git fetch
-
-git pull <a linked remote reposotory name> <commit branch name 'master'> 
-git <a linked remote reposotory name> <commit branch name 'master'> --set-upstream    # set a shortcut
-  git pull

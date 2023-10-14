@@ -1,5 +1,5 @@
 Changes (Working Area)
-Staged Changes (Staging Area) midifications here will go into the new verison
+Staged Changes (Staging Area) modifications here will go into the new version
 
 git reset <file>    # take a change out of the Staging Area
   git reset .
