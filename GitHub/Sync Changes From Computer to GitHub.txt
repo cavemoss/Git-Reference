@@ -1,0 +1,8 @@
+Remote Tracking Branch (origin/master)
+
+
+git push <linked_remote_repository_name> <branch_name>              # upload (Push)
+  git push <linked_remote_repository_name> <branch_name> -f         # overwrite an uploaded commit
+
+git <linked_remote_repository_name> <branch_name> --set-upstream    # set a shortcut
+  git push

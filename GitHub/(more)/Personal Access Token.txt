@@ -1,6 +1,6 @@
 GitHub > profile > Settings / Developer Settings > Personal access tokens
 
 Note (name)
-check off repo
+check off 'repo'
 
 Generate token !

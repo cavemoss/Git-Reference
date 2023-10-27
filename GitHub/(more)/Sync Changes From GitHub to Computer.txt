@@ -1,7 +1,0 @@
-git clone <remote_repository_url > folder-name
-
-git fetch
-
-git pull <a_linked_remote_repository_name> <commit_branch_name 'master'>
-git <a_linked_remote_repository_name> <commit_branch_name 'master'> --set-upstream    # set a shortcut
-  git pull

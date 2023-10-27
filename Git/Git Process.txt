@@ -5,15 +5,12 @@ git log                    # list commit history
   git log --all            # list all the later commits
   git log --all --graph    # visualize branching
  
-git add <file>      # pick which files have been added or changed
+git add <file>      # add a file into the Staging Area
   git add .         # add all
-git reset <file>    # undo add  
-  git reset .       # reset all 
 
-git commit                             # commit to the change
-  git commit -m "<message>"            # attach a message
-  git commit -m "<message>" --amend    # correct previous commit
+git commit -m "<message>"              # create a commit (commit the the changes)
+  git commit -m "<message>" --amend    # overwrite previous commit
 
 
 git config --global user.name "Your Name"             # configure credentials
-git config --global user.email "email@example.com"
+git config --global user.email "email@example.com"    # configure credentials

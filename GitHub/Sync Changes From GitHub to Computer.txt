@@ -1,0 +1,10 @@
+Remote Tracking Branch (origin/master)
+
+
+git clone <remote_repository_url> <folder_name>    # download repository from GitHub
+
+git fetch    # update local repository
+
+git pull <linked_remote_repository_name> <branch_name>              # download new commits from GitHub (Pull)
+git <linked_remote_repository_name> <branch_name> --set-upstream    # set a shortcut
+  git pull
