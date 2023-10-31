@@ -1,4 +1,4 @@
-git config --global alias.<your shortcut key> "<full command>"
+git config --global alias.<your_shortcut_key> "<full_command>"
 
 git config --global alias.s "status"
 git config --global alias.cm "commit -m"
