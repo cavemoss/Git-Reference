@@ -1,8 +1,0 @@
-Changes (Working Area)
-Staged Changes (Staging Area) modifications here will go into the new version
-
-git reset <file>    # take a file out of the Staging Area
-  git reset .       # reset all
-
-git checkout -- <file>    # undo change to a file in the Working Area
-  git checkout -- .       # undo all changes
